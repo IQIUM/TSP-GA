@@ -23,6 +23,7 @@ struct solution {
     int gen;
 };
 
+int test = 100000;
 
 int curGen = 1; //当前代数
 bool isFound = false;   //是否找到最优解
